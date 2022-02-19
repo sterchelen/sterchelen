@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sterchelen/sterchelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>Hello, I'm Nicolas 👋</h2>
+
+<br>
+
+<p>
+	<a href="https://github.com/sterchelen"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=sterchelen&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
+	<a href="https://github.com/sterchelen"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterchelen&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+</p>
